@@ -1,0 +1,11 @@
+Project02_Motor_Start_With_Delay/
+│
+├─ screenshots/
+│   ├─ 01_idle.png
+│   ├─ 02_start_pressed.png
+│   ├─ 03_timer_running.png
+│   ├─ 04_motor_running.png
+│
+├─ Project02.project
+│
+└─ README.md
